@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	background-color:  #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+img{
+	margin: auto;
+	display: block;
+	border-radius: 10px;
+}
+p {
+	text-align: center;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	
+}
+
+#profile {
+    background-color: #14CABB;
+    text-align: center;
+    color: #ffffff;
+}
